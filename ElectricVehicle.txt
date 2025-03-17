@@ -10,3 +10,16 @@ Electric Vehicle (EV) Core Components:-
 7- DC/DC Converter
 8- Onboard Charger
 9- Auxiliary Battery
+
+(A) Electronic Control Unit (ECU) / Controller:-
+
+Role:
+. Manages power delivery from the battery to the motor, optimizing performance and efficiency.
+
+Features:
+. Supports multiple riding modes for varying power outputs and range.
+. Integrates with the scooter’s smart systems, like regenerative braking and over-the-air (OTA) software updates.
+. Built with Ather’s proprietary AtherStack software, enabling diagnostics, predictive maintenance, and connectivity.
+
+Connectivity:
+. Includes 4G LTE (via onboard SIM), Wi-Fi, and Bluetooth for real-time data sync with the Ather mobile app and dashboard.
