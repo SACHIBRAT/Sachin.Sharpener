@@ -1,0 +1,12 @@
+
+Electric Vehicle (EV) Core Components:-
+
+1- Battery Pack
+2- Electric Motor
+3- Power Electronics Controller
+4- Charging Port
+5- Thermal System
+6- Tramission
+7- DC/DC Converter
+8- Onboard Charger
+9- Auxiliary Battery
